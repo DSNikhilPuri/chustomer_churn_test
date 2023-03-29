@@ -7,3 +7,5 @@ df = pd.read_excel("C:\\Users\\nikhil.puri\\OneDrive - Marico Ltd\\Desktop\\cust
 
 my_report = sv.analyze(df)
 my_report.show_html(filepath='C:\\Users\\nikhil.puri\\OneDrive - Marico Ltd\\Desktop\\customer_churn\\chustomer_churn_test\\reports\\eda.html')
+
+print('Hello')
